@@ -1,0 +1,15 @@
+.container{
+    width: 550px;
+    margin: 0px auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.logo{
+    width: 400px;
+    height: 400px;
+    margin: 25px 80px;
+}
+
